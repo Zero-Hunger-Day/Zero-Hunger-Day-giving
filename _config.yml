@@ -4,28 +4,28 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: ZERO HUNGER DAY
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  A charity campaign that aims to help those who are in need
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: abessiharoun@gmail.com
+org_street_address: INSAT
+org_address_suite: None
+org_city: Tunis
+org_state: Tunisia
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  1013
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (216) 92871708
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: IEEE PES INSAT
+org_facebook_username: IEEE PES INSAT
+org_instagram_username: IEEE PES INSAT
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
